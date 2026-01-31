@@ -347,7 +347,7 @@ def generar_pdf_completo(df, nombre_archivo='Visualizaciones/Informe_Visualizaci
         fig_portada = plt.figure(figsize=(11, 8.5))
         fig_portada.patch.set_facecolor('#f8f9fa')
         
-        fig_portada.text(0.5, 0.75, 'ANÁLISIS DE ROTACIÓN', ha='center', fontsize=32, fontweight='bold', color='#2c3e50')
+        fig_portada.text(0.5, 0.75, 'ANÁLISIS DE EMPLEADOS', ha='center', fontsize=32, fontweight='bold', color='#2c3e50')
         fig_portada.text(0.5, 0.68, 'DE EMPLEADOS', ha='center', fontsize=32, fontweight='bold', color='#2c3e50')
         fig_portada.text(0.5, 0.58, 'Informe de Visualizaciones', ha='center', fontsize=18, color='#34495e')
         
