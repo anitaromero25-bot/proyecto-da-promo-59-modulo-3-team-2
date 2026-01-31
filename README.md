@@ -1,15 +1,5 @@
 # 📊 Análisis de Rotación de Empleados (Employee Attrition Analysis)
 
-<div align="center">
-  
-![Adalab](https://img.shields.io/badge/Adalab-Bootcamp-FF69B4?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Módulo 3: Análisis Exploratorio de Datos**
-
-</div>
 
 ---
 
